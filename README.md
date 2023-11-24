@@ -1,4 +1,5 @@
-# vue-basic-me
+<h1>Vue Sample</h1>
+<p>ใช้สำหรับเรียนรู้ vue ร่วมกับ bootstrap และ axios</p>
 
 ## Project setup
 ```
